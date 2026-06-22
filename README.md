@@ -1,10 +1,9 @@
 <div align="center">
 
-<!-- BANNER PRINCIPAL -->
-<!-- 👉 Reemplaza esta URL con tu imagen de Canva cuando la tengas -->
-<!-- Dimensiones recomendadas: 1280x400px -->
+<!-- BANNER PRINCIPAL con muñeca -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:1a0533,100:0D0D0D&height=280&section=header&text=María%20J.%20García-Bonilla&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Computer%20Vision%20·%20NLP%20·%20GenAI%20·%20MLOps&descAlignY=56&descSize=17&descColor=bf5fe1" width="100%"/>
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:7F77DD,50:D4537E,100:EF9F27&height=200&section=header&text=María%20J.%20García-Bonilla&fontSize=40&fontColor=fff&fontAlignY=35&desc=AI%20Engineer%20%7C%20Computer%20Vision%20·%20NLP%20·%20GenAI%20·%20MLOps&descAlignY=55&descSize=16&descColor=fff)
+<img src="https://raw.githubusercontent.com/mjgarcia-bonilla/mjgarcia-bonilla/main/mini_nube.png" width="220px" style="margin-top:-80px"/>
 
 <!-- BADGES DE REDES -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-María_García--Bonilla-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mar%C3%ADa-jos%C3%A9-garc%C3%ADa-bonilla-ab5688267/)
