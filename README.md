@@ -74,7 +74,7 @@ maria = {
 
 ## 🛠️ Stack tecnológico
 
-<div align="center">
+<div align="left">
 
 **💬 NLP & Generative AI**
 
