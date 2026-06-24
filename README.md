@@ -115,7 +115,7 @@ maria = {
 
 ## 🚀 Proyectos destacados
 
-<img src="https://raw.githubusercontent.com/mjgarcia-bonilla/mjgarcia-bonilla/main/avatar_28.png" width="160px" align="right" alt="María proyectos"/>
+<img src="https://raw.githubusercontent.com/mjgarcia-bonilla/mjgarcia-bonilla/main/avatar_28.png" width="160px" alt="María proyectos"/>
 <table width="80%">
   <tr>
     <th>Proyecto</th>
