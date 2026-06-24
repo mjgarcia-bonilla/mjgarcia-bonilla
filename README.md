@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D001A,30:3D0066,60:7B00CC,100:BF00FF&height=260&section=header&text=María%20J.%20García-Bonilla&fontSize=45&fontColor=ffffff&fontAlignY=38&fontAlign=50&desc=AI%20Engineer%20%7C%20Computer%20Vision%20·%20NLP%20·%20GenAI%20·%20MLOps&descAlignY=56&descSize=18&descColor=E0AAFF&animation=fadeIn" width="100%"/>
 
-<img src="https://raw.githubusercontent.com/mjgarcia-bonilla/mjgarcia-bonilla/main/avatar_31.png" width="500px" alt="María AI Engineer"/>
+<img src="https://raw.githubusercontent.com/mjgarcia-bonilla/mjgarcia-bonilla/main/avatar_31.png" width="300px" alt="María AI Engineer"/>
 
 <br/>
 
