@@ -74,8 +74,6 @@ maria = {
 
 ## 🛠️ Stack tecnológico
 
-<div align="left">
-
 **💬 NLP & Generative AI**
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
