@@ -158,7 +158,6 @@ maria = {
     </td>
   </tr>
 </table>
-
 <br clear="right"/>
 
 > 🚧 *Pronto estarán disponibles — ¡proyectos en construcción!*
