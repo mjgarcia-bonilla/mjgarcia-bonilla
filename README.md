@@ -171,17 +171,17 @@ maria = {
 
 ## 📊 Estadísticas de GitHub
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<table border="0" cellspacing="0" cellpadding="20" style="border:none;">
   <tr>
-    <td width="30%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/mjgarcia-bonilla/mjgarcia-bonilla/main/avatar_29.png" width="180px" alt="María stats"/>
+    <td width="25%" align="center" valign="middle" style="border:none;">
+      <img src="https://raw.githubusercontent.com/mjgarcia-bonilla/mjgarcia-bonilla/main/avatar_29.png" width="190px" alt="María stats"/>
     </td>
-    <td width="70%" align="center" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api?username=mjgarcia-bonilla&show_icons=true&hide_border=true&bg_color=00000000&title_color=9B59B6&icon_color=7B00CC&text_color=9B59B6&ring_color=7B00CC" width="100%"/>
+    <td width="75%" align="center" valign="middle" style="border:none;">
+      <img src="https://github-readme-stats.vercel.app/api?username=mjgarcia-bonilla&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&icon_color=7B00CC&text_color=ffffff&ring_color=7B00CC" width="95%"/>
       <br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjgarcia-bonilla&layout=compact&hide_border=true&bg_color=00000000&title_color=9B59B6&text_color=7B00CC&langs_count=6" width="60%"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjgarcia-bonilla&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=ffffff&langs_count=6" width="60%"/>
       <br/>
-      <img src="https://streak-stats.demolab.com?user=mjgarcia-bonilla&theme=transparent&hide_border=true&ring=7B00CC&fire=9B59B6&currStreakLabel=7B00CC&sideLabels=9B59B6&currStreakNum=7B00CC&sideNums=9B59B6&dates=9B59B6" width="90%"/>
+      <img src="https://streak-stats.demolab.com?user=mjgarcia-bonilla&theme=transparent&hide_border=true&ring=7B00CC&fire=7B00CC&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff" width="90%"/>
     </td>
   </tr>
 </table>
