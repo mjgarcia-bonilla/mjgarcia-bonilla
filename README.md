@@ -170,7 +170,7 @@ maria = {
 </div>
 
 ## 📊 Estadísticas de GitHub
-
+<div align="center">
 <table border="0" cellspacing="0" cellpadding="20" style="border:none;">
   <tr>
     <td width="25%" align="center" valign="middle" style="border:none;">
