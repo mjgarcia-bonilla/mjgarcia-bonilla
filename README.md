@@ -115,54 +115,61 @@ maria = {
 
 ## 🚀 Proyectos destacados
 
-<img src="https://raw.githubusercontent.com/mjgarcia-bonilla/mjgarcia-bonilla/main/avatar_28.png" width="160px" alt="María proyectos"/>
-<table width="80%">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <th>Proyecto</th>
-    <th>Descripción</th>
-    <th>Tech</th>
-  </tr>
-  <tr>
-    <td>🔭 <strong><a href="#">cv-projects</a></strong></td>
-    <td>Colección de proyectos de Visión por Computador</td>
-    <td>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+    <td width="25%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/mjgarcia-bonilla/mjgarcia-bonilla/main/avatar_28.png" width="180px" alt="María proyectos"/>
     </td>
-  </tr>
-  <tr>
-    <td>🤖 <strong><a href="#">robot-vision</a></strong></td>
-    <td>Visión artificial aplicada a sistemas robóticos</td>
-    <td>
-      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
-      <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td>💬 <strong><a href="#">llm-experiments</a></strong></td>
-    <td>Experimentos con LLMs y pipelines RAG</td>
-    <td>
-      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
-      <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
-    </td>
-  </tr>
-  <tr>
-    <td>⚙️ <strong><a href="#">mlops-demo</a></strong></td>
-    <td>Pipeline de ML con deploy automatizado</td>
-    <td>
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white"/>
+    <td width="75%" valign="middle">
+      <table width="100%">
+        <tr>
+          <th>Proyecto</th>
+          <th>Descripción</th>
+          <th>Tech</th>
+        </tr>
+        <tr>
+          <td>🔭 <strong><a href="#">cv-projects</a></strong></td>
+          <td>Colección de proyectos de Visión por Computador</td>
+          <td>
+            <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+            <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+            <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+          </td>
+        </tr>
+        <tr>
+          <td>🤖 <strong><a href="#">robot-vision</a></strong></td>
+          <td>Visión artificial aplicada a sistemas robóticos</td>
+          <td>
+            <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+            <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+          </td>
+        </tr>
+        <tr>
+          <td>💬 <strong><a href="#">llm-experiments</a></strong></td>
+          <td>Experimentos con LLMs y pipelines RAG</td>
+          <td>
+            <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+            <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+          </td>
+        </tr>
+        <tr>
+          <td>⚙️ <strong><a href="#">mlops-demo</a></strong></td>
+          <td>Pipeline de ML con deploy automatizado</td>
+          <td>
+            <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+            <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white"/>
+          </td>
+        </tr>
+      </table>
     </td>
   </tr>
 </table>
-<br clear="right"/>
+<div align="center">
+🚧 Pronto estarán disponibles — ¡proyectos en construcción!
 
-> 🚧 *Pronto estarán disponibles — ¡proyectos en construcción!*
-
----
+</div>
 
 ## 📊 Estadísticas de GitHub
 
