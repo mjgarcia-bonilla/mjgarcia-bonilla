@@ -48,7 +48,7 @@ maria = {
     <td><strong>Publicación en MDPI Robotics (2023)</strong><br/>
     <em>AgroCableBot: Reconfigurable Cable-Driven Parallel Robot for Greenhouse or Urban Farming Automation</em><br/>
     <img src="https://img.shields.io/badge/16_citas-7B00CC?style=flat-square&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Revista_Q2-3D0066?style=flat-square&logoColor=white"/></td>
+    <img src="https://img.shields.io/badge/Revista_Q1-3D0066?style=flat-square&logoColor=white"/></td>
   </tr>
   <tr>
     <td align="center">🌍</td>
