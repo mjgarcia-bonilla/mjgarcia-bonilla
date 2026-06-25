@@ -43,7 +43,7 @@ maria = {
 <img src="https://raw.githubusercontent.com/mjgarcia-bonilla/mjgarcia-bonilla/main/avatar_33.png" width="150px" align="right" alt="María investigadora"/>
 <table>
   <tr>
-    <td width="40px" align="center">📄</td>
+    <td width="30px" align="center">📄</td>
     <td><strong><a href="https://www.mdpi.com/2218-6581/12/6/165">Publicación en MDPI Robotics (2023)</a></strong><br/>
     <em>AgroCableBot: Reconfigurable Cable-Driven Parallel Robot for Greenhouse or Urban Farming Automation</em><br/>
     <img src="https://img.shields.io/badge/16_citas-7B00CC?style=flat-square&logoColor=white"/>
