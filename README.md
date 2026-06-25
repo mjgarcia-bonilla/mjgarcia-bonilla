@@ -40,7 +40,7 @@ maria = {
 
 ## 🔬 Investigación & Logros destacados
 
-<img src="https://raw.githubusercontent.com/mjgarcia-bonilla/mjgarcia-bonilla/main/avatar_33.png" width="160px" align="right" alt="María investigadora"/>
+<img src="https://raw.githubusercontent.com/mjgarcia-bonilla/mjgarcia-bonilla/main/avatar_33.png" width="150px" align="right" alt="María investigadora"/>
 <table>
   <tr>
     <td width="40px" align="center">📄</td>
