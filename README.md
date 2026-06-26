@@ -1,14 +1,14 @@
 <div align="center">
 
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D001A,30:3D0066,60:7B00CC,100:BF00FF&height=260&section=header&text=María%20J.%20García-Bonilla&fontSize=45&fontColor=ffffff&fontAlignY=38&fontAlign=50&desc=AI%20Engineer%20%7C%20Computer%20Vision%20·%20NLP%20·%20GenAI%20·%20MLOps&descAlignY=56&descSize=18&descColor=E0AAFF&animation=fadeIn" width="100%"/> -->
-<img src="https://raw.githubusercontent.com/mjgarcia-bonilla/mjgarcia-bonilla/main/María J. García - Bonilla.png" width="250px" alt="María AI Engineer"/>
+<img src="https://raw.githubusercontent.com/mjgarcia-bonilla/mjgarcia-bonilla/main/María J. García - Bonilla.png" width="500px" alt="María AI Engineer"/>
 
 
-<br/>
+<!-- <br/> -->
 
 ### ✨ *"Turning data into knowledge, and knowledge into innovation through AI"* ✨
 
-<br/>
+<!-- <br/> -->
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-María_García--Bonilla-7B00CC?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mar%C3%ADa-jos%C3%A9-garc%C3%ADa-bonilla-ab5688267/)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-García--Bonilla-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Maria-Garcia-Bonilla-3?ev=hdr_xprf)
