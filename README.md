@@ -199,13 +199,21 @@ maria = {
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/mjgarcia-bonilla/mjgarcia-bonilla/main/5641ce63-5447-4818-b82b-4afe8f4bdd6f.jpg" width="100%" alt="María AI Engineer"/>
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mjgarcia-bonilla.mjgarcia-bonilla&color=7B00CC&style=for-the-badge)
 
 </div>
-
 
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:BF00FF,30:7B00CC,60:3D0066,100:0D001A&height=120&section=footer" width="100%"/>
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 120" width="100%">
+  <defs>
+    <clipPath id="wave">
+      <path d="M0,60 C320,120 960,0 1280,60 L1280,120 L0,120 Z"/>
+    </clipPath>
+  </defs>
+  <image href="https://raw.githubusercontent.com/mjgarcia-bonilla/mjgarcia-bonilla/main/space_banner.jpg" width="1280" height="120" clip-path="url(#wave)" preserveAspectRatio="xMidYMid slice"/>
+</svg>
+
 </div>
