@@ -1,11 +1,8 @@
 <div align="center">
 
-<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D001A,30:3D0066,60:7B00CC,100:BF00FF&height=260&section=header&text=María%20J.%20García-Bonilla&fontSize=45&fontColor=ffffff&fontAlignY=38&fontAlign=50&desc=AI%20Engineer%20%7C%20Computer%20Vision%20·%20NLP%20·%20GenAI%20·%20MLOps&descAlignY=56&descSize=18&descColor=E0AAFF&animation=fadeIn" width="100%"/> -->
-<img src="https://raw.githubusercontent.com/mjgarcia-bonilla/mjgarcia-bonilla/main/header_banner.png" width="100%" alt="María AI Engineer"/>
+<img src="https://raw.githubusercontent.com/mjgarcia-bonilla/mjgarcia-bonilla/main/header_banner.png" width="100%" alt="María J. García-Bonilla - AI Engineer"/>
 
-
-<!-- <br/> -->
-<!-- <br/> -->
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-María_García--Bonilla-7B00CC?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mar%C3%ADa-jos%C3%A9-garc%C3%ADa-bonilla-ab5688267/)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-García--Bonilla-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Maria-Garcia-Bonilla-3?ev=hdr_xprf)
@@ -38,14 +35,15 @@ maria = {
 
 ## 🔬 Investigación & Logros destacados
 
-<img src="https://raw.githubusercontent.com/mjgarcia-bonilla/mjgarcia-bonilla/main/avatar_33.png" width="150px" align="right" alt="María investigadora"/>
+<img src="https://raw.githubusercontent.com/mjgarcia-bonilla/mjgarcia-bonilla/main/avatar_33.png" width="160px" align="right" alt="María investigadora"/>
+
 <table>
   <tr>
-    <td width="30px" align="center">📄</td>
+    <td width="40px" align="center">📄</td>
     <td><strong><a href="https://www.mdpi.com/2218-6581/12/6/165">Publicación en MDPI Robotics (2023)</a></strong><br/>
     <em>AgroCableBot: Reconfigurable Cable-Driven Parallel Robot for Greenhouse or Urban Farming Automation</em><br/>
     <img src="https://img.shields.io/badge/16_citas-7B00CC?style=flat-square&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Revista_Q1-3D0066?style=flat-square&logoColor=white"/></td>
+    <img src="https://img.shields.io/badge/Revista_Q2-3D0066?style=flat-square&logoColor=white"/></td>
   </tr>
   <tr>
     <td align="center">🌍</td>
@@ -65,11 +63,14 @@ maria = {
     3 años investigando mecatrónica, robótica móvil y modelado matemático</td>
   </tr>
 </table>
+
 <br clear="right"/>
 
 ---
 
 ## 🛠️ Stack tecnológico
+
+<div align="center">
 
 **💬 NLP & Generative AI**
 
@@ -161,13 +162,17 @@ maria = {
     </td>
   </tr>
 </table>
+
 <div align="center">
-🚧 Pronto estarán disponibles — ¡proyectos en construcción!
+
+🚧 *Pronto estarán disponibles — ¡proyectos en construcción!*
 
 </div>
 
+---
+
 ## 📊 Estadísticas de GitHub
-<div align="center">
+
 <table border="0" cellspacing="0" cellpadding="20" style="border:none;">
   <tr>
     <td width="25%" align="center" valign="middle" style="border:none;">
@@ -206,12 +211,5 @@ maria = {
 ---
 
 <div align="center">
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 120" width="100%">
-  <defs>
-    <clipPath id="wave">
-      <path d="M0,60 C320,120 960,0 1280,60 L1280,120 L0,120 Z"/>
-    </clipPath>
-  </defs>
-  <image href="https://raw.githubusercontent.com/mjgarcia-bonilla/mjgarcia-bonilla/main/space_banner.jpg" width="1280" height="120" clip-path="url(#wave)" preserveAspectRatio="xMidYMid slice"/>
-</svg>
+<img src="https://raw.githubusercontent.com/mjgarcia-bonilla/mjgarcia-bonilla/main/space_banner.jpg" width="100%" alt="footer"/>
 </div>
