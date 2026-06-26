@@ -5,9 +5,6 @@
 
 
 <!-- <br/> -->
-
-### ✨ *"Turning data into knowledge, and knowledge into innovation through AI"* ✨
-
 <!-- <br/> -->
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-María_García--Bonilla-7B00CC?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mar%C3%ADa-jos%C3%A9-garc%C3%ADa-bonilla-ab5688267/)
