@@ -211,5 +211,5 @@ maria = {
 ---
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/mjgarcia-bonilla/mjgarcia-bonilla/main/space_banner.jpg" width="100%" alt="footer"/>
+<img src="https://raw.githubusercontent.com/mjgarcia-bonilla/mjgarcia-bonilla/main/space_banner.png" width="100%" alt="footer"/>
 </div>
