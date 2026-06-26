@@ -217,3 +217,13 @@ maria = {
 </svg>
 
 </div>
+<div align="center">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 120" width="100%">
+  <defs>
+    <clipPath id="wave">
+      <path d="M0,60 C320,120 960,0 1280,60 L1280,120 L0,120 Z"/>
+    </clipPath>
+  </defs>
+  <image href="https://raw.githubusercontent.com/mjgarcia-bonilla/mjgarcia-bonilla/main/space_banner.jpg" width="1280" height="120" clip-path="url(#wave)" preserveAspectRatio="xMidYMid slice"/>
+</svg>
+</div>
