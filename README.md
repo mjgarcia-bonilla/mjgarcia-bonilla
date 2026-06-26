@@ -199,9 +199,10 @@ maria = {
 
 <br/>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mjgarcia-bonilla.mjgarcia-bonilla&color=7B00CC&style=for-the-badge)
+<img src="https://raw.githubusercontent.com/mjgarcia-bonilla/mjgarcia-bonilla/main/5641ce63-5447-4818-b82b-4afe8f4bdd6f.jpg" width="100%" alt="María AI Engineer"/>
 
 </div>
+
 
 ---
 
